@@ -10,7 +10,7 @@ public class MiCirculo {
 	double radio, diametro, circunferencia, area;
 	
   	Scanner sc = new Scanner(System.in);
-  	System.out.println("Punto x: ");
+  	System.out.println("Punto dfsdfsfsdfsfsdsfx: ");
 	x= sc.nextInt();
 	System.out.println("Punto y: ");
 	y = sc.nextInt();
