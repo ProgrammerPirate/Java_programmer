@@ -8,7 +8,7 @@ public class PruebaCirculo {
 	public static void main(String[] args) {
 
 		Circulo circulo = new Circulo(37, 43, 2.5);
-		String salida = "La coordenada X es " + micirculito(circulo).obtenerX() +
+		String salida = "La coorddfgdfgdffffffffffffffffffffffffdenada X es " + micirculito(circulo).obtenerX() +
 		"\nLa coordenada Y es " + micirculito(circulo).obtenerY() +
 		"\nEl radio es " + micirculito(circulo).obtenerRadio();
 		micirculito(circulo).establecerX(35);
